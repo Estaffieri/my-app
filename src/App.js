@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 classname="greeting">Welcome to my minimalist site!</h1>
+        <h1 className="greeting">Welcome to my minimalist site!</h1>
         <button id="attendance" onClick={buttonClick}>
           Check In
         </button>
